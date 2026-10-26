@@ -24,7 +24,7 @@ This project implements a **Convolutional Neural Network (CNN)** using PyTorch t
 ```text
 CIFAR-10-Image-Classification-Using-CNN/
 │
-├── CNN_for_CIFAR10(1).ipynb   # CNN implementation, training, and evaluation
+├── CNN_for_CIFAR10.ipynb   # CNN implementation, training, and evaluation
 └── README.md                 # Project documentation
 ```
 
